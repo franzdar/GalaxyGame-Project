@@ -1,5 +1,7 @@
 # Galaxy Game
-A casual puzzle video game where you must save various worlds and universes infested with slimes. Solve each level by the power of physics, unlock new levels, and discover different slimes throughout the universe.
+A casual puzzle video game where you must save various worlds and universes infested with slimes. Solve each level by the power of physics, unlock new levels, and discover different slimes throughout the universe.  
+
+![GalaxyGameDemo](https://github.com/franzdar/GalaxyGame-Project/assets/152060348/b56b326c-9023-4dcb-af93-4f586de7539f)
 <br></br>
 
 ## Introduction
